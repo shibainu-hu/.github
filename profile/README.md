@@ -1,12 +1,13 @@
-## Hi there 👋
+# ShibaInu.hu 🐾
 
-<!--
+Welcome to the official repository of `ShibaInu.hu`, a platform in development with a focus on Hungary's Shiba Inu community. 
 
-**Here are some ideas to get you started:**
+## 📖 About
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+`ShibaInu.hu` aims to be a comprehensive resource for Shiba Inu enthusiasts in Hungary:
+- **Educative Articles**: Our goal is to feature content that enlightens both current and future Shiba Inu owners about this unique breed.
+- **Kennel Showcase**: Dive deep into curated showcases of Hungary's upcoming kennels, and get acquainted with their exceptional Shiba Inus.
+- **Senior Shibas**: We're working towards a mission to assist senior Shiba Inus, guiding them towards their deserving forever homes.
+- **Puppy Availability**: Keep an eye out for our puppy availability section, designed to help enthusiasts discover their Shiba soulmate.
+
+Join us on our journey to establish a hub for Shiba Inus in Hungary! 🐕💞
